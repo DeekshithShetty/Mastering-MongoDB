@@ -25,9 +25,9 @@ The best resources for mastering MongoDB
 * [NoSQL Databases](#)       
 * [Advantages of MongoDB](#)
   * Document Database
-   * Documents (objects) map nicely to programming language data types.
-   * Embedded documents and arrays reduce need for joins.
-   * Dynamic schema makes polymorphism easier.
+    * Documents (objects) map nicely to programming language data types.
+    * Embedded documents and arrays reduce need for joins.
+    * Dynamic schema makes polymorphism easier.
   * High Performance
    * Embedding makes reads and writes fast.
    * Indexes can include keys from embedded documents and arrays.

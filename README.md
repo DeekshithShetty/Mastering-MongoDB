@@ -29,16 +29,16 @@ The best resources for mastering MongoDB
     * Embedded documents and arrays reduce need for joins.
     * Dynamic schema makes polymorphism easier.
   * High Performance
-   * Embedding makes reads and writes fast.
-   * Indexes can include keys from embedded documents and arrays.
-   * Optional streaming writes (no acknowledgments).
+    * Embedding makes reads and writes fast.
+    * Indexes can include keys from embedded documents and arrays.
+    * Optional streaming writes (no acknowledgments).
   * High Availability
-   * Replicated servers with automatic master failover.
+    * Replicated servers with automatic master failover.
   * Easy Scalability
-   * Automatic <a href="http://docs.mongodb.org/manual/core/sharding/?_ga=1.255135368.1226260750.1433586809">sharding</a> distributes collection data across machines.   
-   * Eventually-consistent reads can be distributed over replicated servers.
+    * Automatic <a href="http://docs.mongodb.org/manual/core/sharding/?_ga=1.255135368.1226260750.1433586809">sharding</a> distributes collection data across machines.   
+    * Eventually-consistent reads can be distributed over replicated servers.
   * Advanced Operations
-   * With MongoDB Management Service (MMS) MongoDB supports a complete backup solution and full deployment monitoring. 
+    * With MongoDB Management Service (MMS) MongoDB supports a complete backup solution and full deployment monitoring. 
 * [When to use MongoDB and when not](#)
 * [Best Applications of mongoDB](#)
 * [Organisations using MongoDB](#)
